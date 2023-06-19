@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    background-color: #c8c8c8;
+}
+
+#header {
+    height: 10vh;
+    border-bottom: 1px solid black;
+}
+
+#main{
+    height: 90vh;
+}
+
+.centered{
+    padding: 3rem;
+    text-align: center;
+}
+
+.blue{
+    color: #38A0FA;
+}
