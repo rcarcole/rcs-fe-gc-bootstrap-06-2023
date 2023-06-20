@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+
+#login{
+    height: 4vh;
+}
+
+#nav{
+    background-color: aqua;
+
+}
+
+#nav:hover{
+    background-color: #ffffff;
+}
+
+.imagen-redimensionada{
+    width: 3.5rem;
+}
+
+.moved-right-form {
+    margin-left: 40vw;
+}
+
+.moved-right-nav-item {
+    margin-left: 7vw;
+}
