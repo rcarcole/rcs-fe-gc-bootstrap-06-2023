@@ -7,11 +7,11 @@ body{
 }
 
 #nav{
-    background-color: aqua;
+    background-color: #2980B9;
 
 }
 
-#nav:hover{
+li:hover{
     background-color: #ffffff;
 }
 
@@ -25,4 +25,26 @@ body{
 
 .moved-right-nav-item {
     margin-left: 7vw;
+}
+
+.activated {
+    font-weight: bold;
+    color: red;
+    background-color: #ffffff;
+}
+
+.color-white {
+    color: #ffffff;
+}
+
+.input-group {
+    position: relative;
+}
+
+.input-icon {
+    position: absolute;
+    right: 20px;
+    top: 44%;
+    transform: translateY(-50%);
+    cursor: pointer;
 }
